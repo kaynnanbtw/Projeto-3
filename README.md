@@ -1,4 +1,4 @@
-**Nome:** Quebra de senha por dicionário
+##Ataque de dicionário
 
 **Descrição:**
 
@@ -71,7 +71,3 @@ O programa pode ser melhorado de várias maneiras, incluindo:
 * Adicionar suporte para outros algoritmos de hash, além do SHA256.
 * Adicionar suporte para outras bases de dados de senhas fracas.
 * Melhorar a eficiência do algoritmo de comparação de senhas.
-
-**Autor:**
-
-* Bard
